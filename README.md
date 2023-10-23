@@ -11,14 +11,14 @@ Priorizando a analise de dados como o principal fator em minha jornada de trabal
 
 Skills:
 
-<ol>
+
   <li><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /></li>
   <li><img width='50' height='50' Fsrc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" /></li>
   <li><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></li>
   <li><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" /> </li>
  <li><img  width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> </li>
  <li> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> </li>
-</ol>
+
 
 
 
