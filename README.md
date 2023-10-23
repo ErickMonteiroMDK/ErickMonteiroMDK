@@ -1,7 +1,6 @@
-### Hi there 👋
-
-### Hi there 👋, Me chamo Erick Monteiro
+### Olá Pessoal 👋, Me chamo Erick Monteiro
 #### Futuro Analista De Dados!!!
+
 Um fanático por tecnologia, encantado pelo mundo do desenvolvimento web e suas peculiaridades.
 
 Acredito no poder do trabalho em equipe e na experiência quando se trata de resolver problemas, ajudar os outros e conectar projetos. 
