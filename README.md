@@ -11,4 +11,4 @@ Priorizando a analise de dados como o principal fator em minha jornada de trabal
 
 Skills: R | Python | SQL | Power BI
 
-<img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)](https://github.com/USERNAME/github-readme-stats)
