@@ -11,5 +11,5 @@ Priorizando a analise de dados como o principal fator em minha jornada de trabal
 
 Skills: R | Python | SQL | Power BI
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
           
