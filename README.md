@@ -10,3 +10,8 @@ Priorizando a analise de dados como o principal fator em minha jornada de trabal
  Estudante de Análise de Desenvolvimento de Sistemas na faculdade Senac, e estou atualmente na segunda fase do curso.
 
 Skills: R | Python | SQL | Power BI
+
+[![texto alternativo][1.1]][1]
+
+[1]: http://www.twitter.com/meunome
+[1.1]: http://i.imgur.com/tXSoThF.png (texto título)
