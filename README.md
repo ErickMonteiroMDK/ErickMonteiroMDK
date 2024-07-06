@@ -5,11 +5,6 @@
   <img height="180em" src="https://streak-stats.demolab.com?user=ErickMonteiroMDK&theme=great-gatsby&date_format=j%20M%5B%20Y%5D"/>
 </div>
 
-<!-- Troféus de Contribuições -->
-<div align="center" style="margin-top: 20px;">
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=ErickMonteiroMDK&theme=onedark"/>
-</div>
-
 <!-- Tecnologias -->
 <div align="center" style="margin-top: 20px;"> 
   <div style="display: inline-block; text-align: center;">
